@@ -7,5 +7,5 @@
    - [User menu](https://github.com/LuciaHeredia/BashScripts/blob/master/simple-scripts/user_menu.sh) - Options: Check date, Check time, Exit.
    - [Get your age group](https://github.com/LuciaHeredia/BashScripts/blob/master/simple-scripts/your_age_group.sh) - Enter age and get the age group you belong to.
 ### Grep:
-   - [Text Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/basic-txt-search.sh) - Enter File path/name and Word to search.
+   - [Text Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/txt-search.sh) - Enter File path/name and Word to search(case-insensitive).
 
