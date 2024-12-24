@@ -27,7 +27,7 @@ while true; do
 	Your choice: " option
 	case "$option" in
 		1) 
-			if (( $result > 0 )); then
+		if (( $result > 0 )); then
         		echo "Found a match for the word: $word"
 		else
         		echo "No match for the word: $word"
