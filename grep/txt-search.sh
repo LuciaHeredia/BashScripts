@@ -9,7 +9,9 @@ if [ ! -f "$file" ]; then #True if FILE exists & is a regular file
 fi
 
 read -p "Enter word to search: " word
-result=$(grep -o "$word" "$file") #-o with grep to extract only the matched text
+#-o :extract only the matched text
+#-i :case-insensitive
+result=$(grep -o -i "$word" "$file")
 if [ "$result" != "" ]; then
 	echo "Found a match!"
 else
