@@ -1,8 +1,7 @@
 #!/bin/bash
 
 ###### start message ######
-echo "Searching a word in a text file.."
-echo ""
+echo -e "Searching a word in a text file..\n"
 
 ###### file path ######
 read -p "Enter file path with name: " file
