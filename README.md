@@ -8,4 +8,5 @@
    - [Get your age group](https://github.com/LuciaHeredia/BashScripts/blob/master/simple-scripts/your_age_group.sh) - Enter age and get the age group you belong to.
 ### Grep:
    - [Text Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/txt-search.sh) - Enter File path/name and Word to search(case-insensitive), includes menu options.
+   - [Recursive Directory Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/recursive-directory-search.sh) - Recursive search for "TODO" tasks in all files within a directory and its subdirectories.
 
