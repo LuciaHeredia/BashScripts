@@ -9,5 +9,4 @@
 ### Grep:
    - [Text Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/txt-search.sh) - Enter File path/name and Word to search(case-insensitive), includes menu options.
    - [Recursive Directory Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/recursive-directory-search.sh) - Recursive search for "TODO" tasks in all files within a directory and its subdirectories.
-### Cut:
-   - [Extract Username](https://github.com/LuciaHeredia/BashScripts/blob/master/cut/extract-username.sh) - Extract & print usernames(format: "username:fullname") from a file.
+
