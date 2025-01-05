@@ -9,4 +9,6 @@
 ### Grep:
    - [Text Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/txt-search.sh) - Enter File path/name and Word to search(case-insensitive), includes menu options.
    - [Recursive Directory Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/recursive-directory-search.sh) - Recursive search for "TODO" tasks in all files within a directory and its subdirectories.
+### Awk:
+   - [Column Manipulation](https://github.com/LuciaHeredia/BashScripts/blob/master/awk/column-manipulation.sh) - Print columns and sum values in columns.
 
