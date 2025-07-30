@@ -11,4 +11,5 @@
    - [Recursive Directory Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/recursive-directory-search.sh) - Recursive search for "TODO" tasks in all files within a directory and its subdirectories.
 ### Awk:
    - [Column Manipulation](https://github.com/LuciaHeredia/BashScripts/blob/master/awk/column-manipulation.sh) - Print columns and sum values in columns.
-
+### Tee:
+   - [TextOps]() - CLI tool for automated text file handling (creating, copying, logging).
