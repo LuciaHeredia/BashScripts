@@ -7,6 +7,7 @@
    - [User menu](https://github.com/LuciaHeredia/BashScripts/blob/master/simple-scripts/user_menu.sh) - Options: Check date, Check time, Exit.
    - [Get your age group](https://github.com/LuciaHeredia/BashScripts/blob/master/simple-scripts/your_age_group.sh) - Enter age and get the age group you belong to.
    - [Collatz Conjecture](https://github.com/LuciaHeredia/BashScripts/blob/master/simple-scripts/collatz_conjecture.sh) - It asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.
+   - [Armstrong Number](https://github.com/LuciaHeredia/BashScripts/blob/master/simple-scripts/armstrong_number.sh) - A number that is the sum of its own digits each raised to the power of the number of digits.
 ### Grep:
    - [Text Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/txt-search.sh) - Enter File path/name and Word to search(case-insensitive), includes menu options.
    - [Recursive Directory Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/recursive-directory-search.sh) - Recursive search for "TODO" tasks in all files within a directory and its subdirectories.
