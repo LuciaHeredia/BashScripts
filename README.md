@@ -13,3 +13,5 @@
    - [Recursive Directory Search](https://github.com/LuciaHeredia/BashScripts/blob/master/grep/recursive-directory-search.sh) - Recursive search for "TODO" tasks in all files within a directory and its subdirectories.
 ### Awk:
    - [Column Manipulation](https://github.com/LuciaHeredia/BashScripts/blob/master/awk/column-manipulation.sh) - Print columns and sum values in columns.
+### Advanced:
+   - [Difference of Squares](https://github.com/LuciaHeredia/BashScripts/blob/master/advanced/diff_square_sum.sh) - Find the difference between: the square of the sum and the sum of the squares of the first N natural numbers.
